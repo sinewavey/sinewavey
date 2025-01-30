@@ -3,8 +3,8 @@
 
 I enjoy:
 
-* Math
-* C++ programming
-* Game development with and for the Godot engine
-* Tetris
-
+* math
+* c++ programming
+* writing player character controllers
+* game development with and for the godot engine
+* tetris
